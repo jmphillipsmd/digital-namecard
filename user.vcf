@@ -11,5 +11,6 @@ item1.ADR;type=WORK;type=pref:;;3907 Waring Road\, Suite 4\Oceanside\, Oceanside
 item1.X-ABADR:sg
 item2.URL;type=pref:urology-sd.com
 item2.X-ABLabel:_$!<HomePage>!$_
-item3.X-SOCIALPROFILE:socialProfile;type=facebook:http://www.facebook.com/phillipsurology
+item3.X-SOCIALPROFILE:Follow Me on Facebook;type=facebook:http://www.facebook.com/phillipsurology
+item4.X-SOCIALPROFILE:Follow Me on Instagram;type=instagram:http://www.instagram.com/jmphillipsmd
 END:VCARD
