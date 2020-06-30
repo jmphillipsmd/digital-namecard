@@ -142,6 +142,10 @@ img.profile-pic {
 	background-color: white;
 }
 
+.bg-color-blue {
+	background-color: #0d4f8c;
+}
+
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -166,7 +170,7 @@ img.profile-pic {
 .text-detail-white {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #ffffff;
+    color: white;
     font-size: 14px;
 }
 
