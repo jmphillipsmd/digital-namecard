@@ -7,8 +7,9 @@ ORG:Urology San Diego;
 TITLE:serving: Tri-City | Scripps Encinitas | Palomar\nChief of Urology | Co-Chair of Robotics at Tri-City\n
 EMAIL;type=INTERNET;type=WORK;type=pref:jphillips@urology-sd.com
 TEL;type=WORK;type=VOICE:760 295 9984
-item1.ADR;type=WORK;type=pref:;;3907 Waring Road\, Suite 4\Oceanside\, Oceanside;;;92056;Califoria
+item1.ADR;type=WORK;type=pref:;;3907 Waring Road\, Suite 4\Oceanside\, Oceanside;;;92056;California
 item1.X-ABADR:sg
 item2.URL;type=pref:urology-sd.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.X-SOCIALPROFILE:socialProfile;type=facebook:http://www.facebook.com/phillipsurology
 END:VCARD
